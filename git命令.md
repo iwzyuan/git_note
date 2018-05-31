@@ -1,5 +1,7 @@
 ﻿#git命令
 
+> - `b f q` => 在一页显示不下的时候b向上翻页，f向下翻页，q为退出
+
 > - `git config --global user.name "Your Name"` => 改变全局name
 > - `git config --global user.email "iwzyuan@163.com"` => 改变全局邮箱
 > - `git add filepath`  => 将本地文件`添加`值暂存区
